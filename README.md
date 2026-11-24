@@ -50,6 +50,7 @@ Python (Pandas, NumPy), Steam Web API, Power BI, Git
 
 - Player counts come from a public third-party site (SteamCharts), not official Steam figures.
 - Review sentiment and player count influence each other, so the findings show association, not cause.
+- Data was collected once in mid-July 2026. Games, prices, reviews and player counts after that date are not included, so prices and review counts are a snapshot, and player history ends at the latest full month before collection.
 
 ## Author
 
